@@ -15,9 +15,9 @@ I am a Software Engineer passionate about designing **scalable backend systems**
 
 ### 🛠️ **Tech Stack**
 - **Languages:** Java, JavaScript (ES6+), SQL  
-- **Backend:** Spring Boot, Hibernate, JWT Authentication, REST APIs  
+- **Backend:** Spring Boot, Hibernate, OAuth
 - **Frontend:** React, Next.js, Redux-Saga, Tailwind CSS  
-- **Databases:** PostgreSQL, Oracle (8i → 19c Migration)  
+- **Databases:** PostgreSQL, Oracle (8i → 19c)  
 - **Tools & Platforms:** Docker, Koyeb, SonarQube, GitHub Actions  
 - **Other Expertise:** iTextPDF 7.x, UI/UX Principles, System Design  
 
