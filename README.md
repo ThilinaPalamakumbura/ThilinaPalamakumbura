@@ -62,3 +62,4 @@ I am a Software Engineer passionate about designing **scalable backend systems**
 
 ### ⚡ **Quote I Live By**  
 _"Great software is built with clean code, solid design, and a passion for solving real-world problems."_
+.
