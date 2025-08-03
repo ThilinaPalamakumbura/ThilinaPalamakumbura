@@ -40,8 +40,7 @@
 
 ### 📊 **GitHub Stats**
 ![Thilina's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThilinaPalamakumbura&show_icons=true&theme=radical&count_private=true&hide=issues)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThilinaPalamakumbura&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=ThilinaPalamakumbura&theme=radical&hide_border=false)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ThilinaPalamakumbura&theme=github-dark-blue&hide_border=true&border_radius=8&date_format=M%20j%5B,%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
@@ -67,6 +66,9 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=ThilinaPalamakumbura&label=Profile%20Views&color=blue&style=flat)
 
 ---
+<!-- GitHub Streak Stats -->
+
+
 
 ### ⚡ **Quote I Live By**  
 _"Great software is built with clean code, solid design, and a passion for solving real-world problems."_
