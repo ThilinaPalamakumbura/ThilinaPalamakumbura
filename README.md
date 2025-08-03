@@ -9,7 +9,8 @@
 ### 👨‍💻 **About Me**
 **`Software Engineer | Java | Spring Boot | React | UI/UX Enthusiast | Ham Radio Operator (4S6TMB)`**  
 
-I am a Software Engineer passionate about designing **scalable backend systems** and crafting **intuitive frontend experiences**. I believe in clean, maintainable code combined with modern practices while respecting proven, time-tested fundamentals.
+💻 Passionate about building **efficient backend systems**, crafting **beautiful frontends**, and delivering **scalable, maintainable software solutions**.  
+🌏 Based in Sri Lanka, blending **modern technology** with a respect for **traditional approaches**.
 
 ---
 
@@ -18,7 +19,7 @@ I am a Software Engineer passionate about designing **scalable backend systems**
 - **Backend:** Spring Boot, Hibernate, OAuth
 - **Frontend:** React, Next.js, Redux-Saga, Tailwind CSS  
 - **Databases:** PostgreSQL, Oracle (8i → 19c)  
-- **Tools & Platforms:** Docker, Koyeb, SonarQube, GitHub Actions  
+- **Tools & Platforms:** Docker, Koyeb, SonarQube, GitHub Actions 
 - **Other Expertise:** iTextPDF 7.x, UI/UX Principles, System Design  
 
 ---
@@ -33,7 +34,7 @@ I am a Software Engineer passionate about designing **scalable backend systems**
 - Migrated Oracle 8i databases to 19c, improving performance and reliability.  
 - Implemented **JWT-based authentication** with role-based authorization for enterprise-level security.  
 - Enhanced PDF generation using **iTextPDF 7.x** for advanced reporting.  
-- Deployed containerized Spring Boot applications using **Docker** and **Koyeb**.  
+- Deployed containerized Spring Boot applications using **Docker** and **Koyeb** Vercel Fast Blob.  
 
 ---
 
@@ -53,6 +54,13 @@ I am a Software Engineer passionate about designing **scalable backend systems**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thilina-palamakumbura-649604a0/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tmbpedu@gmail.com)  
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ---
 
 ### 👀 **Profile Visitors**
